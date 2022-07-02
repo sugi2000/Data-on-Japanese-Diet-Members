@@ -15,17 +15,18 @@
 
 ## データ
 
-- 衆議院議委員
+### 衆議院議員
   - [shugiin.json](./shugiin.json)
     - `name`: 氏名
     - `link`: 議員情報ページのURL
     - `sex`: 性別（`F`: 女性、`M`: 男性）
     - `wikiTitle`: Wikipedia日本語版の項目のタイトル
     - `birthday` : 生年月日（`YYYY-MM-DD`）
-- 参議院議委員
+
+### 参議院議員
   - [sangiin.json](./sangiin.json)
     - `name`: 氏名
-    - `realName`: 実名
+    - `realName`: 本名氏名
     - `link`: 議員情報ページのURL
     - `sex`: 性別（`F`: 女性、`M`: 男性）
     - `wikiTitle`: Wikipedia日本語版の項目のタイトル
