@@ -11,7 +11,7 @@
 - [参議院ウェブサイト](https://www.sangiin.go.jp/)
 - [Wikipedia日本語版](https://ja.wikipedia.org/)
 
-2022年6月29日現在です。
+データは、2022年6月29日現在です。
 
 ## データ
 
