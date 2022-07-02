@@ -16,9 +16,9 @@
 ## データ
 
 - 衆議院議委員
-  - [shugiin.json](./blob/main/shugiin.json)
+  - [shugiin.json](./shugiin.json)
 - 参議院議委員
-  - [shugiin.json](./blob/main/shugiin.json)
+  - [shugiin.json](./shugiin.json)
 
 ## 二次利用とライセンスについて
 
