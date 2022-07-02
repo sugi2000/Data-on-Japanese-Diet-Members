@@ -23,7 +23,7 @@
     - `wikiTitle`: Wikipedia日本語版の項目のタイトル
     - `birthday` : 生年月日（`YYYY-MM-DD`）
 - 参議院議委員
-  - [shugiin.json](./shugiin.json)
+  - [sangiin.json](./sangiin.json)
     - `name`: 氏名
     - `realName`: 実名
     - `link`: 議員情報ページのURL
