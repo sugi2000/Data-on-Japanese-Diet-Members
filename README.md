@@ -17,6 +17,11 @@
 
 - 衆議院議委員
   - [shugiin.json](./shugiin.json)
+    - `name`: 氏名
+    - `link`: 議員情報ページのURL
+    - `wikiTitle`: Wikipedia日本語版の項目のタイトル
+    - `sex`: 性別（`F`: 女性、`M`: 男性）
+    - `birthday` : 生年月日（YYYY-MM-DD）
 - 参議院議委員
   - [shugiin.json](./shugiin.json)
 
