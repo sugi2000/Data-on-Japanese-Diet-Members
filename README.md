@@ -4,16 +4,21 @@
 ## 概要
 
 日本の国会議員のデータをJSON形式でまとめて公開しています。
-衆議院ウェブサイト、参議院ウェブサイト、Wikipedia日本語版
+
+データソース：
+
+- [衆議院ウェブサイト](https://www.shugiin.go.jp/)
+- [参議院ウェブサイト](https://www.sangiin.go.jp/)
+- [Wikipedia日本語版](https://ja.wikipedia.org/)
 
 2022年6月29日現在です。
 
 ## データ
 
 - 衆議院議委員
- - [shugiin.json](./blob/main/shugiin.json)
+  - [shugiin.json](./blob/main/shugiin.json)
 - 参議院議委員
- - [shugiin.json](./blob/main/shugiin.json)
+  - [shugiin.json](./blob/main/shugiin.json)
 
 ## 二次利用とライセンスについて
 
