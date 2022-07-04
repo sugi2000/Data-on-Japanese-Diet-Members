@@ -41,6 +41,12 @@
 - [参議院ウェブサイト](https://www.sangiin.go.jp/)
 - [Wikipedia日本語版](https://ja.wikipedia.org/)
 
+## 公開の動機
+
+国会議員の人口ピラミッドを作りたかったため。
+
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="ja" dir="ltr">国会議員と日本人の人口ピラミッド。議員の年齢は2022年6月29日現在。人口の棒の長さは、2万分の1に縮めています。<br>データ：Wikipedia（議員情報）、国勢調査（日本人の人口）。 <a href="https://t.co/DYYmg8Jy7G">pic.twitter.com/DYYmg8Jy7G</a></p>&mdash; SUGIMOTO Tatsuo 杉本達應 (@sugi2000) <a href="https://twitter.com/sugi2000/status/1542069371962814464?ref_src=twsrc%5Etfw">June 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ## 開発者
 
 杉本達應 [@sugi2000](https://twitter.com/sugi2000/)
