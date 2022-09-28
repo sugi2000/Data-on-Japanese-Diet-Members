@@ -1,5 +1,5 @@
 # 日本の国会議員のデータ
-### Members of the Diet of Japan
+### Data on Japanese Diet Members
 
 ## 概要
 
