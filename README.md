@@ -5,12 +5,17 @@
 
 日本の国会議員のデータをJSON形式でまとめて公開しています。
 
-データは、2022年6月29日現在のものです。今後の更新の予定は未定です。
+データの最終更新日
+
+- 衆議院議員：2022年6月29日
+- 参議院議員：2022年9月29日
+
+今後の更新の予定は未定です。
 
 ## データ
 
 ### 衆議院議員
-  - [shugiin.json](./shugiin.json)
+  - [shugiin.json](./2022-06-29/shugiin.json)
     - `name`: 氏名
     - `link`: 議員情報ページのURL
     - `sex`: 性別（`F`: 女性、`M`: 男性）
@@ -18,7 +23,7 @@
     - `birthday` : 生年月日（`YYYY-MM-DD`）
 
 ### 参議院議員
-  - [sangiin.json](./sangiin.json)
+  - [sangiin.json](./2022-09-29/sangiin.json)
     - `name`: 氏名
     - `realName`: 本名氏名
     - `link`: 議員情報ページのURL
