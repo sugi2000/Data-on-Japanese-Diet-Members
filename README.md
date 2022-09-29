@@ -12,6 +12,10 @@
 
 今後の更新の予定は未定です。
 
+### データ閲覧
+
+[こちらのページ](https://observablehq.com/@sugi2000/data-on-japanese-diet-members)では、表形式で閲覧できます。
+
 ## データ
 
 ### 衆議院議員
